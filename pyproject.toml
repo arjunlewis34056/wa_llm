@@ -1,0 +1,5 @@
+[project]
+name = "wa-llm"
+version = "0.1.0"
+description = "A WhatsApp bot that can participate in group conversations, powered by AI. The bot monitors group messages and responds when mentioned."
+requires-python = ">=3.10"
